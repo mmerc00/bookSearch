@@ -2,6 +2,7 @@
 
 ### Overview
 
-In this homework a search is done by the userusing Google Book API
+In this homework a search is done by the utilizing Google's API book search.
+
 
 ### Collaborators
